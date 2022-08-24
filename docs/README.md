@@ -38,8 +38,7 @@ around with many properties I wasn't familiar with yet.
 
 - [CSS Tutorial - Zero to Hero (YouTube)](https://www.youtube.com/watch?v=1Rs2ND1ryYc&t=13315s) - This 6 hour CSS tutorial has helped me a lot
 with learning the fundamentals of CSS.
-- [CSS Flexbox Cheat Sheet (Google Docs)](https://docs.google.com/document/d/1jWpqeNW9f6phCx9E4MJi5-VPRjdswY_A_wr4pIoeSvA/edit) - This is a Google doc I found
-that was helpful as a reference for flexbox.
+- [CSS Flexbox Cheat Sheet (Google Docs)](https://docs.google.com/document/d/1jWpqeNW9f6phCx9E4MJi5-VPRjdswY_A_wr4pIoeSvA/edit) - This is a Google doc I found that was helpful as a reference for flexbox.
 
 ## Author
 
