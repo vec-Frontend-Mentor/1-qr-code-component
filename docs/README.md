@@ -9,10 +9,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -35,8 +33,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 I used this challenge as a way to practice the fundamentals of the flexbox, and also to play
 around with many properties I wasn't familiar with yet.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
