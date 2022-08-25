@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-card-with-css-flexbox-upg-38yEF0)
-- Live Site URL: [Live Site](https://github.com/vec-Frontend-Mentor/1-qr-code-component)
+- Live Site URL: [Live Site](https://vec-frontend-mentor.github.io/1-qr-code-component/)
 
 ### Built with
 
