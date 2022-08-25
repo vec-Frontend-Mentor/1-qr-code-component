@@ -44,4 +44,3 @@ with learning the fundamentals of CSS.
 
 - Website - [Vectar](https://github.com/vectar7)
 - Frontend Mentor - [@vectar7](https://www.frontendmentor.io/profile/vectar7)
-- Twitter - [@ItsVectar](https://twitter.com/ItsVectar)
